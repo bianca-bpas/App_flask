@@ -10,6 +10,7 @@ Jinja2
 MarkupSafe
 packaging
 pip
+requests
 setuptools
 SQLAlchemy
 typing_extensions
